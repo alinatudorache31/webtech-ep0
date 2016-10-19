@@ -1,0 +1,14 @@
+body{
+    background-color: powderblue;
+}
+h1 {
+    color: grey;
+    font-family: verdana;
+    font-size: 120%;
+    margin: 20px;
+}
+li{
+    font-family: cursive;
+    font-size: large;
+    border: groove;
+}
